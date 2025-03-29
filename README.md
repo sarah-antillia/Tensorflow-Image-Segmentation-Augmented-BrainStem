@@ -309,6 +309,8 @@ python ../../../src/TensorflowUNetInferencer.py ./train_eval_infer_aug.config
 
 <hr>
 <b>Inferred test masks</b><br>
+<img src="./projects/TensorflowSlightlyFlexibleUNet/BrainStem/asset/mini_test_output.png" width="1024" height="auto"><br>
+
 <br>
 <hr>
 <b>Enlarged images and masks </b><br>
